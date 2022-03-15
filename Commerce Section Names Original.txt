@@ -1,0 +1,218 @@
+﻿Commerce
+* Installation and Upgrades
+   * Installation Overview
+   * Activating Liferay Commerce Enterprise
+   * Upgrading Liferay Commerce
+   * Maintenance Versions
+   * 3.0 Release Notes
+   * 3.0 Breaking Changes
+   * Installing Commerce 2.1 and Below
+      * Using the Liferay Commerce Docker Image
+      * Using the Liferay Tomcat Bundle
+      * Deploying Liferay Commerce to an Existing Liferay Installation
+* Starting a Store
+   * Introduction to Liferay Commerce
+   * Store Setup Overview
+   * Introduction to the Admin Account
+   * Accelerators
+   * Using the Minium Accelerator to Jump-Start Your B2B Store
+   * Site Management
+      * Site and Site Types
+   * Channels
+      * Introduction to Channels
+      * Managing Channels
+      * Configuring Product Visibility Using Channels
+      * Channels Reference Guide
+* Managing a Catalog
+   * Catalogs
+      * Creating a New Catalog
+      * Configuring a Product Placeholder Image
+      * Configuring Catalog Permissions
+   * Creating and Managing Products
+      * Product Types
+         * Creating a Simple Product
+         * Creating a Grouped Product
+         * Creating a Virtual Product
+         * Shop By Diagram
+      * Products
+         * Products Overview
+         * Using Product Options
+         * Creating SKUs for Product Variants
+         * Product Images
+         * Specifications
+         * Product Attachments
+         * Creating a New Product Category
+         * Enabling Subscriptions for a Product
+         * Organizing Your Catalog with Product Categories
+         * Related Products, Up-Sells, Cross-Sells
+         * Creating Product Bundles
+         * Managing BOMs
+         * Overriding Product Level Information
+         * Configuring Product Visibility Using Account Groups
+         * Product Configuration Reference
+   * Managing Inventory
+      * Introduction to Managing Inventory
+      * Setting Up Commerce Warehouses
+      * Setting Inventory by Warehouse
+      * Low Stock Action
+      * Availability Estimates
+      * Managing Product Publication
+      * Using the Inventory Management System
+      * Inventory Management Reference Guide
+      * Warehouse Reference Guide
+      * Product Inventory Configuration Reference
+   * Managing Prices
+      * Introduction to Pricing
+      * Setting a Product’s Base Price
+      * Creating a Price List
+      * Adding Products to a Price List
+      * Using Price Tiers
+      * Using Gross and Net Price Types
+      * Using Price Modifiers
+* Creating Store Content
+   * Creating Your Storefront
+   * Creating a Catalog Page
+   * Creating Product Display Pages
+   * Creating Category Display Pages
+   * Using Wish Lists
+   * Commerce Storefront Pages
+      * Account Management
+      * Catalog
+      * Cart
+      * Checkout
+      * Compare
+      * Lists
+      * Pending Orders
+      * Placed Orders
+      * Product Details 
+      * Search
+   * Using Web Experience Management
+      * Developing Fragments
+      * Using Fragments
+      * Navigation Menus
+      * Styling Widgets with Widget Templates
+      * Enabling Commerce Products as Related Assets
+   * Design and Theme
+      * Understanding the Page Layout
+      * Theme Reference Guide
+   * Liferay Commerce Widgets
+      * Using the Mini Cart Widget
+      * Using the Price Range Facet Widget
+      * Using the Product Downloads Widget
+      * Widget Reference
+* Promoting Products
+   * Introduction to Discounts
+   * Creating a Discount
+   * Introduction to Promotions
+   * Using the Promotion Base List
+   * Creating a Promotion
+   * Promotion Base List Reference
+   * Introduction to Product Groups
+* Users and Accounts
+   * Roles and Permissions
+      * Commerce Roles Reference
+      * Order Management Permissions
+      * Inventory Management Permissions
+      * Pricing Permissions
+      * Product Management Permissions
+      * Site Management Permissions
+      * Settings Permissions
+   * Account Management
+      * Creating a New Account
+      * Inviting Users to an Account
+      * Adding Addresses to an Account
+      * Account Roles
+      * Creating a New Account Group
+      * Using Organizations to Create a Sales Network
+      * Adding Organizations to Accounts
+* Orders and Fulfillment
+   * Orders
+      * Processing an Order
+      * Order Information
+      * Orders Menu Reference Guide
+      * Order Life-Cycle
+      * Order Management Statuses Reference Guide
+   * Order Workflows
+      * Introduction to Order Workflows
+      * Approving or Rejecting Orders in Order Workflows
+      * Enabling or Disabling Order Workflows
+   * Subscriptions
+      * Managing Subscriptions
+      * Subscription Administration Reference Guide
+   * Shipments
+      * Introduction to Shipments
+      * Creating a Shipment
+      * Canceling a Shipment
+      * Shipment Management Reference Guide
+* Store Administration
+   * Liferay Commerce Configuration Overview
+   * Locale Options
+   * Adding Regions
+   * Sending Emails
+      * Store Emails
+      * Using Notification Templates
+      * Configuring the Commerce Notification Queue
+      * Notification Template Variables Reference Guide
+   * Guest Checkout
+      * Guest Checkout Overview
+      * Enabling Guest Checkout
+   * Deactivating a Country for Billing or Shipping
+   * Currencies
+      * Understanding the Currency Hierarchy
+      * Adding a New Currency
+      * Managing Exchange Rates
+      * Currencies Reference
+   * Configuring Taxes
+      * Creating Tax Categories
+      * Setting Rates for Tax Calculations
+      * Applying Tax Rates
+   * Configuring Payment Methods
+      * Managing Payment Methods
+      * Authorize.net
+      * Mercanet
+      * Money Orders
+      * PayPal
+   * Configuring Shipping Methods
+      * Using the FedEx Shipping Method
+      * Using the Flat Rate Shipping Method
+      * Using the Variable Rate Shipping Method
+      * Applying Shipping Method Restrictions
+      * Measurement Units
+      * Shipping Method Reference
+* Add-ons and Connectors
+   * PunchOut2Go
+      * Liferay Commerce Connector to PunchOut2Go 
+      * Liferay Commerce Connector to PunchOut2Go Reference Guide
+   * Salesforce
+      * Liferay Commerce Connector to Salesforce
+* Developer Guide
+   * Catalog
+      * Adding a New Product Type
+   * Content
+      * Implementing a Custom Product Renderer
+      * Adding a New Product Data source for the Product Publisher Widget
+   * Managing Inventory
+      * Implementing a Custom Low Stock Activity
+   * Order Management
+      * Commerce Order Engine Overview
+      * Implementing a Custom Order Status
+   * Promotions
+      * Adding a New Discount Rule Type
+   * Sales
+      * Implementing a Custom Checkout Step
+      * Implementing a Custom Order Validator
+      * Implementing a New Payment Method
+      * Implementing a Shipping Engine
+      * Implementing a New Tax Engine
+      * Implementing a Custom Exchange Rate Provider
+   * Reference Materials
+      * Admin APIs
+* Get Help
+   * Liferay Commerce 3.0 Compatibility Matrix
+   * Liferay Commerce Fix Delivery Method
+   * Service Life
+   * Consulting
+   * Training
+   * Liferay University
+   * Join the Community
+   * Open a Ticket
