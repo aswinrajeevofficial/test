@@ -1,4 +1,4 @@
-﻿Commerce
+Commerce
 * Installation and Upgrades
    * Installation Overview
    * Activating Liferay Commerce Enterprise
@@ -18,57 +18,74 @@
    * Using the Minium Accelerator to Jump-Start Your B2B Store
    * Site Management
       * Site and Site Types
+* Channels and Currencies
    * Channels
       * Introduction to Channels
       * Managing Channels
       * Configuring Product Visibility Using Channels
       * Channels Reference Guide
-* Managing a Catalog
+   * Currencies
+      * Understanding the Currency Hierarchy
+      * Adding a New Currency
+      * Managing Exchange Rates
+      * Currencies Reference
+* Product Management
    * Catalogs
       * Creating a New Catalog
       * Configuring a Product Placeholder Image
       * Configuring Catalog Permissions
-   * Creating and Managing Products
-      * Product Types
-         * Creating a Simple Product
-         * Creating a Grouped Product
-         * Creating a Virtual Product
-         * Shop By Diagram
-      * Products
-         * Products Overview
-         * Using Product Options
-         * Creating SKUs for Product Variants
-         * Product Images
-         * Specifications
-         * Product Attachments
-         * Creating a New Product Category
-         * Enabling Subscriptions for a Product
-         * Organizing Your Catalog with Product Categories
-         * Related Products, Up-Sells, Cross-Sells
-         * Creating Product Bundles
-         * Managing BOMs
-         * Overriding Product Level Information
-         * Configuring Product Visibility Using Account Groups
-         * Product Configuration Reference
-   * Managing Inventory
-      * Introduction to Managing Inventory
-      * Setting Up Commerce Warehouses
-      * Setting Inventory by Warehouse
-      * Low Stock Action
-      * Availability Estimates
-      * Managing Product Publication
-      * Using the Inventory Management System
-      * Inventory Management Reference Guide
-      * Warehouse Reference Guide
-      * Product Inventory Configuration Reference
-   * Managing Prices
-      * Introduction to Pricing
-      * Setting a Product’s Base Price
-      * Creating a Price List
-      * Adding Products to a Price List
-      * Using Price Tiers
-      * Using Gross and Net Price Types
-      * Using Price Modifiers
+   * Product Types
+      * Creating a Simple Product
+      * Creating a Grouped Product
+      * Creating a Virtual Product
+      * Shop By Diagram
+   * Products
+      * Products Overview
+      * Using Product Options
+      * Creating SKUs for Product Variants
+      * Product Images
+      * Specifications
+      * Product Attachments
+      * Creating a New Product Category
+      * Enabling Subscriptions for a Product
+      * Organizing Your Catalog with Product Categories
+      * Related Products, Up-Sells, Cross-Sells
+      * Creating Product Bundles
+      * Managing BOMs
+      * Overriding Product Level Information
+      * Configuring Product Visibility Using Account Groups
+      * Product Configuration Reference
+* Inventory Management
+   * Introduction to Managing Inventory
+   * Setting Up Commerce Warehouses
+   * Setting Inventory by Warehouse
+   * Low Stock Action
+   * Availability Estimates
+   * Managing Product Publication
+   * Using the Inventory Management System
+   * Inventory Management Reference Guide
+   * Warehouse Reference Guide
+   * Product Inventory Configuration Reference
+* Pricing
+   * Introduction to Pricing
+   * Setting a Product’s Base Price
+   * Creating a Price List
+   * Adding Products to a Price List
+   * Using Price Tiers
+   * Using Gross and Net Price Types
+   * Using Price Modifiers
+   * Configuring Taxes
+      * Creating Tax Categories
+      * Setting Rates for Tax Calculations
+      * Applying Tax Rates
+   * Promoting Products
+      * Introduction to Discounts
+      * Creating a Discount
+      * Introduction to Promotions
+      * Using the Promotion Base List
+      * Creating a Promotion
+      * Promotion Base List Reference
+      * Introduction to Product Groups
 * Creating Store Content
    * Creating Your Storefront
    * Creating a Catalog Page
@@ -100,15 +117,7 @@
       * Using the Price Range Facet Widget
       * Using the Product Downloads Widget
       * Widget Reference
-* Promoting Products
-   * Introduction to Discounts
-   * Creating a Discount
-   * Introduction to Promotions
-   * Using the Promotion Base List
-   * Creating a Promotion
-   * Promotion Base List Reference
-   * Introduction to Product Groups
-* Users and Accounts
+* Users and Accounts[a]
    * Roles and Permissions
       * Commerce Roles Reference
       * Order Management Permissions
@@ -125,7 +134,7 @@
       * Creating a New Account Group
       * Using Organizations to Create a Sales Network
       * Adding Organizations to Accounts
-* Orders and Fulfillment
+* Orders Management
    * Orders
       * Processing an Order
       * Order Information
@@ -157,15 +166,6 @@
       * Guest Checkout Overview
       * Enabling Guest Checkout
    * Deactivating a Country for Billing or Shipping
-   * Currencies
-      * Understanding the Currency Hierarchy
-      * Adding a New Currency
-      * Managing Exchange Rates
-      * Currencies Reference
-   * Configuring Taxes
-      * Creating Tax Categories
-      * Setting Rates for Tax Calculations
-      * Applying Tax Rates
    * Configuring Payment Methods
       * Managing Payment Methods
       * Authorize.net
