@@ -1,4 +1,4 @@
-﻿Commerce
+Commerce
 * Installation and Upgrades
    * Installation Overview
    * Activating Liferay Commerce Enterprise
@@ -216,6 +216,3 @@
    * Liferay University
    * Join the Community
    * Open a Ticket
-
-
-[a]Will stay as it is
